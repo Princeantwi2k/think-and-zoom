@@ -1,0 +1,231 @@
+.contianer-ck {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 5px;
+    border: 1px solid transparent;
+    background-color: #2a2c40;
+    
+}
+
+.kojo{
+	height: 100px;
+	width: 150px;
+}
+.omega{
+	list-style: none;
+	display: flex;
+	justify-content: flex-end;
+	text-align: center;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+	font-size: 17px;
+
+}
+
+a:hover.active{
+	border:1px dotted white;
+	border-bottom: 1px solid white;
+	padding: 20px;
+}
+a:hover{
+	border-bottom: 1px solid white;
+	height: 60px;
+}
+.akua{
+	text-align: center;
+	background-color: #dcd6d6;
+	height: 70px;
+	
+}
+.david{
+	height: 550px;
+
+}
+.dede{
+	color: black;
+}
+.Demo{
+	background-color: #2a2c40 ;
+    text-align: center;
+    color: white;
+ 
+}
+.abi{
+	margin-top: 30px;
+}
+.mama{
+	padding: 20px;
+}
+.naa{
+	padding: 20px;
+}
+.obed{
+	background-color: red;
+	height: 1px;
+	width: 350px;
+	margin:auto;
+
+}
+.iframe{
+	position: relative;
+	width: 100%;
+	padding-bottom:  50%;
+	height: 0;
+}
+.iframe iframe{
+	position: absolute;
+	top: 0;
+	left: 15%;
+	width: 70%;
+	height: 70%;
+}
+.prince{
+	background-color: #ffa621;
+}
+.ama{
+	padding: 20px;
+	height: 600px;
+}
+
+.nana{
+	text-align: center;
+	color: white;
+	padding: 20px;
+}
+.jeff{
+	
+	color: white;
+
+}
+.amen{
+	color: #3e3d7b;
+}
+.sika{
+	text-align: center;
+	color: black;
+	padding: 20px;
+}
+.wofa{
+	position: relative;
+	width: 100%;
+	padding-bottom:  50%;
+	height: 0;
+}
+.wofa iframe{
+	position: absolute;
+	padding-top: 30px;
+	top: 0;
+	left: 15%;
+	width: 70%;
+	height: 70%;
+}
+.ken{
+	background-color:#2a2c40;
+	width: 100%;
+}
+.fameye{
+	text-align: center;
+	color: white;
+	padding: 20px;
+}
+
+.obaapa{
+		padding:10px;
+}
+.alberta{
+	background-color:#ffa621;
+
+}
+.kenti{
+		background-color:#ffa621;
+		color: white;
+}
+.ajo{
+		padding:40px;
+}
+.laate{
+		background-color: #fff;	
+		padding: 10px;
+}
+.laa{
+		background-color: #fff;
+		padding: 37px;
+}
+.yaa{
+		height: 30px;
+		width: 80px;
+}
+.aba{
+		border-color: red;
+		color: red;
+}
+.emma{
+		background-color: #fff;
+		width:40%;
+		padding: 15px;
+}
+.emely{
+		background-color: #fff;
+		width:40%;
+		padding: 30px;
+	}
+.image{
+	height: 40px;
+		width: 80px;
+
+}
+.esi{
+		background-color: #fff;
+		width:40%;
+		margin: 10px;
+		padding: 20px;
+
+}
+.kwahu{
+		background-color: #fff;
+		width:40%;
+	padding: 38px;
+}
+.erica{
+		background-color: #fff;
+		padding-top: 30px;
+		text-align: center;
+}
+.daina{
+	padding: 20px;
+}
+.miki{
+	padding: 30px;
+}
+.kite{
+	width: 150px;
+	height: 40px;
+}
+.info{
+	padding-top: 80px;
+}
+.abu{border-color: red;
+		color: red;
+		padding: 15px;
+		margin: 10px;	
+}
+.eric{
+	background-color: red;
+}
+.icon{
+	padding: 10px;
+	height: 100px;
+	
+}
+.icons{
+	padding-left: 100px;
+}
+.copy{
+	color: white;
+	padding-top: 100px;
+}
+

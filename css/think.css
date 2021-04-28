@@ -1,0 +1,37 @@
+body{
+	border: none;
+	margin: none;
+}
+.contianer-ck{
+	background-color: #4a5277;
+	margin: none;
+	border-bottom: 5px;
+	
+}
+.kojo{
+	height: 100px;
+	width: 150px;
+}
+ul{
+	list-style: none;
+	display: flex;
+	justify-content: flex-end;
+	text-align: center;
+}
+li{
+	padding: 10px;
+	font-size: 2rem;
+}
+li.active{
+	border:2px dotted white;
+}
+li:hover{
+	border-bottom: 2px solid white;
+}
+.akua{
+	text-align: center;
+	background-color: #dcd6d6;
+	height: 70px;
+	margin: none;
+	border: none;
+}
